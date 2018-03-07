@@ -1,0 +1,8 @@
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/bin/Debug/ConsoleGUI.exe
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/bin/Debug/ConsoleGUI.pdb
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/obj/x86/Debug/ConsoleGUI.csprojResolveAssemblyReference.cache
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/obj/x86/Debug/ConsoleGUI.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/obj/x86/Debug/ConsoleGUI.exe
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/obj/x86/Debug/ConsoleGUI.pdb
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/bin/Debug/SpaceDefenders.exe
+/Users/daniel/Desktop/SpaceDefenders/ConsoleGUI/bin/Debug/SpaceDefenders.pdb

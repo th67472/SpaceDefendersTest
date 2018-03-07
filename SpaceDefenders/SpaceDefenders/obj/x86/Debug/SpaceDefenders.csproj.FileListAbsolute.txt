@@ -1,0 +1,20 @@
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/Projects/Live/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.exe
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/Projects/Live/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.pdb
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/Projects/Live/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.csproj.CoreCompileInputs.cache
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/Projects/Live/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.exe
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/Projects/Live/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.pdb
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/lectures/lect11/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.exe
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/lectures/lect11/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.pdb
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/lectures/lect11/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.csproj.CoreCompileInputs.cache
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/lectures/lect11/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.exe
+/Users/daniel/Google Drive/Work/Teaching/MDH/dva222/2018/lectures/lect11/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.pdb
+/Users/daniel/Desktop/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.exe
+/Users/daniel/Desktop/SpaceDefenders/SpaceDefenders/bin/Debug/SpaceDefenders.pdb
+/Users/daniel/Desktop/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.exe
+/Users/daniel/Desktop/SpaceDefenders/SpaceDefenders/obj/x86/Debug/SpaceDefenders.pdb
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\SpaceDefenders\bin\Debug\SpaceDefenders.exe
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\SpaceDefenders\bin\Debug\SpaceDefenders.pdb
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\SpaceDefenders\obj\x86\Debug\SpaceDefenders.csproj.CoreCompileInputs.cache
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\SpaceDefenders\obj\x86\Debug\SpaceDefenders.exe
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\SpaceDefenders\obj\x86\Debug\SpaceDefenders.pdb

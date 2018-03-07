@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceDefenders", "SpaceDefenders\SpaceDefenders.csproj", "{460ECB76-D9AF-4427-8CAF-BF9FB88980B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGUI", "ConsoleGUI\ConsoleGUI.csproj", "{6DAD7791-70A5-49ED-A857-B660721E11BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsGUI", "WinFormsGUI\WinFormsGUI.csproj", "{EC38FE42-210C-4224-9394-DD80B214212A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460ECB76-D9AF-4427-8CAF-BF9FB88980B0}.Debug|x86.ActiveCfg = Debug|x86
+		{460ECB76-D9AF-4427-8CAF-BF9FB88980B0}.Debug|x86.Build.0 = Debug|x86
+		{460ECB76-D9AF-4427-8CAF-BF9FB88980B0}.Release|x86.ActiveCfg = Release|x86
+		{460ECB76-D9AF-4427-8CAF-BF9FB88980B0}.Release|x86.Build.0 = Release|x86
+		{6DAD7791-70A5-49ED-A857-B660721E11BC}.Debug|x86.ActiveCfg = Debug|x86
+		{6DAD7791-70A5-49ED-A857-B660721E11BC}.Debug|x86.Build.0 = Debug|x86
+		{6DAD7791-70A5-49ED-A857-B660721E11BC}.Release|x86.ActiveCfg = Release|x86
+		{6DAD7791-70A5-49ED-A857-B660721E11BC}.Release|x86.Build.0 = Release|x86
+		{EC38FE42-210C-4224-9394-DD80B214212A}.Debug|x86.ActiveCfg = Debug|x86
+		{EC38FE42-210C-4224-9394-DD80B214212A}.Debug|x86.Build.0 = Debug|x86
+		{EC38FE42-210C-4224-9394-DD80B214212A}.Release|x86.ActiveCfg = Release|x86
+		{EC38FE42-210C-4224-9394-DD80B214212A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

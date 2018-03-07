@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{EC38FE42-210C-4224-9394-DD80B214212A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SpaceDefenders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WinFormsGUI/BottomPanel.cs">
+    <Files>
+      <File FileName="SpaceDefenders/Program.cs" Line="10" Column="15" />
+      <File FileName="SpaceDefenders/Trigger.cs" Line="18" Column="14" />
+      <File FileName="SpaceDefenders/Alien.cs" Line="50" Column="53" />
+      <File FileName="SpaceDefenders/Projectile.cs" Line="35" Column="2" />
+      <File FileName="SpaceDefenders/SpaceDefenders.cs" Line="31" Column="40" />
+      <File FileName="SpaceDefenders/Collider.cs" Line="43" Column="64" />
+      <File FileName="SpaceDefenders/Player.cs" Line="49" Column="25" />
+      <File FileName="SpaceDefenders/Position.cs" Line="7" Column="9" />
+      <File FileName="SpaceDefenders/Playfield.cs" Line="86" Column="3" />
+      <File FileName="ConsoleGUI/ConsoleRenderer.cs" Line="3" Column="1" />
+      <File FileName="ConsoleGUI/Program.cs" Line="69" Column="18" />
+      <File FileName="SpaceDefenders/ICollidable.cs" Line="7" Column="6" />
+      <File FileName="SpaceDefenders/IHittable.cs" Line="7" Column="6" />
+      <File FileName="SpaceDefenders/IDisplayable.cs" Line="6" Column="23" />
+      <File FileName="SpaceDefenders/AlienProjectile.cs" Line="33" Column="54" />
+      <File FileName="SpaceDefenders/PlayerProjectile.cs" Line="25" Column="10" />
+      <File FileName="SpaceDefenders/IAnimatable.cs" Line="7" Column="6" />
+      <File FileName="SpaceDefenders/IRenderer.cs" Line="6" Column="51" />
+      <File FileName="WinFormsGUI/Program.cs" Line="12" Column="34" />
+      <File FileName="WinFormsGUI/BottomPanel.cs" Line="18" Column="12" />
+      <File FileName="WinFormsGUI/GameBoard.cs" Line="20" Column="35" />
+      <File FileName="WinFormsGUI/GameForm.cs" Line="40" Column="66" />
+      <File FileName="WinFormsGUI/GraphicsRenderer.cs" Line="11" Column="51" />
+      <File FileName="WinFormsGUI/GameMenu.cs" Line="14" Column="55" />
+      <File FileName="SpaceDefenders/Settings.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WinFormsGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

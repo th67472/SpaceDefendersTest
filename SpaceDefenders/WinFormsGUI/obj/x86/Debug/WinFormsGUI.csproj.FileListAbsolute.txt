@@ -1,0 +1,16 @@
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/obj/x86/Debug/WinFormsGUI.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/obj/x86/Debug/WinFormsGUI.csprojResolveAssemblyReference.cache
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/bin/Debug/WinFormsGUI.exe
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/bin/Debug/WinFormsGUI.pdb
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/obj/x86/Debug/WinFormsGUI.exe
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/obj/x86/Debug/WinFormsGUI.pdb
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/bin/Debug/SpaceDefenders.exe
+/Users/daniel/Desktop/SpaceDefenders/WinFormsGUI/bin/Debug/SpaceDefenders.pdb
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\bin\Debug\WinFormsGUI.exe
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\bin\Debug\WinFormsGUI.pdb
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\bin\Debug\SpaceDefenders.exe
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\bin\Debug\SpaceDefenders.pdb
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\obj\x86\Debug\WinFormsGUI.csprojResolveAssemblyReference.cache
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\obj\x86\Debug\WinFormsGUI.csproj.CoreCompileInputs.cache
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\obj\x86\Debug\WinFormsGUI.exe
+C:\Users\tobbe\Downloads\DVA222-VT18-lect12-spacedefenders\SpaceDefenders\WinFormsGUI\obj\x86\Debug\WinFormsGUI.pdb
